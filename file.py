@@ -151,7 +151,7 @@ your leg got caught on a tree root. You are dead {p1.nick}.
         print('The stranger transported you across the lake.')
 
 def rat():
-    second_chamber=input('''You see small rat in the corner of the room.
+    choice=input('''You see small rat in the corner of the room.
     Do you want to:
     (press 1) Take him with you (press 2) Kill and eat him?\n''')
     if choice=="1":
